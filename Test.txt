@@ -1,0 +1,12 @@
+---Values entered---
+
+Enter Area in Square Feet : 4512
+Enter Number of Rooms : 6
+Enter Build Year : 2004
+Enter Location (city): Jaipur
+Enter Street Type (Residential Lane, Corner Plot, Highway Facing, Main Road, Gated Society): Main Road
+Enter Furnishing (Furnished, Semi-Furnished, Unfurnished) : Unfurnished
+Enter Property Type (Apartment, Duplex, Villa, Independent House): Independent House
+Has Pool (yes/no) : no
+
+Predicted House Price =  973999.4896030906
