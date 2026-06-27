@@ -19,8 +19,6 @@ This is a beginner Machine Learning project that predicts the price of a house u
 - Pandas
 - NumPy
 - Scikit-learn
-- Matplotlib
-- Seaborn
 - Joblib
 
 ## 📊 Dataset Features
@@ -65,6 +63,12 @@ HousePricePredictionModel.pkl
 README.md
 ```
 
+# 🎯 Future Improvements
+
+- Add graphs and visual for better understanding.
+- Interactive web application using Flask or Streamlit
+- Model deployment on cloud platforms
+  
 ## 👨‍💻 Author
 
 **Ashwani Kumar**
