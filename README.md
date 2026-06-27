@@ -12,8 +12,8 @@ This is a beginner Machine Learning project that predicts the price of a house u
 - Model evaluation
 - User input prediction
 - Save trained model using Joblib
-  
-  ##🛠️ Technologies Used
+
+##🛠️ Technologies Used
 
 - Python
 - Pandas
